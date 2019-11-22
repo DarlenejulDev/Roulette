@@ -1,0 +1,48 @@
+.hide{
+  display:inline-block;
+}
+h1,section,input,button,.path,.result{
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  margin-bottom: 7%;
+  color: white;
+}
+.result{
+  color: white;
+
+}
+.owner{
+  margin-top: 47%;
+  border-radius: 43%;
+  font-size: 30px;
+  font-weight: 800;
+}
+body{
+  margin-top: 20px;
+  background-image: url(background.jpeg);
+  background-repeat:none;
+  background-position: center;
+  background-size: cover;
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color:
+}
+button{
+  margin-left: 2%;
+    background-color: navajowhite;
+    border-radius: 43%;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.color{
+  margin-right: 1%;
+width: 17em;
+font-size: 30px;
+}
+.amount{
+  font-size: 30px;
+}
